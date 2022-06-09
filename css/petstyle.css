@@ -5,7 +5,7 @@
 
 header{
     text-align: center;
-    background-image: url(/Projeto\ PetShop_TB/img/fundo-topo.jpg);
+    background-image: url(img/fundo-topo.jpg);
     padding: 10px 0 ;
 }
 
@@ -33,7 +33,7 @@ nav{
 
 nav li{
     display: inline;
-    background-image: url(/Projeto\ PetShop_TB/img/patinha-preta.png);
+    background-image: url(img/patinha-preta.png);
     background-repeat: no-repeat;
     background-position: center right;
     margin-right: 10px;
